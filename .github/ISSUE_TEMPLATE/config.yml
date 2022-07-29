@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Feedback for Shisho Cloud
+    url: https://github.com/flatt-security/shisho-cloud-feedback/discussions
+    about: Share your feedback with the Shisho Cloud team.
